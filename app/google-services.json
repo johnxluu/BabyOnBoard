@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835631311232",
+    "project_id": "cecs453-dfa67",
+    "storage_bucket": "cecs453-dfa67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835631311232:android:6e55b37ec5940e2d297965",
+        "android_client_info": {
+          "package_name": "com.csulb.cecs453"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835631311232-lmkqpfe28um4n4lalh1eu1uaeo64c16j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOZxM27_j5TMzPlVwSFKsajFYfV12kktI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835631311232-lmkqpfe28um4n4lalh1eu1uaeo64c16j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
