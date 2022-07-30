@@ -3,6 +3,7 @@
     <string name="title_help">Help</string>
     <string name="title_disclaimer">Disclaimer</string>
     <string name="title_settings">Settings</string>
+    <string name="description_disclaimer">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eros ex, ultrices in pulvinar nec, auctor sed libero. Nullam consequat commodo arcu et facilisis. Vestibulum molestie sem tellus, et vulputate turpis pellentesque id. Donec quis urna mi. Quisque placerat elit at purus bibendum, id tempor metus viverra. Phasellus non enim in odio egestas sagittis sed in neque.\n\nInteger lobortis augue ac neque sodales, ut consequat tortor laoreet. Proin eu luctus dolor, vel vestibulum dolor. Duis fermentum lacus sed risus fringilla semper. Phasellus vel semper neque. Fusce lacinia mauris enim, non aliquam nibh auctor vitae.\n\nNam pulvinar neque risus, quis eleifend ex gravida scelerisque. Cras auctor vitae lacus sed ultricies. Praesent ut tortor eget ipsum feugiat aliquet.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

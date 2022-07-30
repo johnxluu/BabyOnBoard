@@ -3,22 +3,22 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/navigation_game">
+    app:startDestination="@+id/navigation_help">
 
     <fragment
-        android:id="@+id/navigation_game"
+        android:id="@+id/navigation_help"
         android:name="com.zybooks.babyonboard.HelpFragment"
         android:label="@string/title_help"
         tools:layout="@layout/fragment_help" />
 
     <fragment
-        android:id="@+id/navigation_color"
+        android:id="@+id/navigation_disclaimer"
         android:name="com.zybooks.babyonboard.DisclaimerFragment"
         android:label="@string/title_disclaimer"
         tools:layout="@layout/fragment_disclaimer" />
 
     <fragment
-        android:id="@+id/navigation_help"
+        android:id="@+id/navigation_settings"
         android:name="com.zybooks.babyonboard.SettingsFragment"
         android:label="@string/title_help"
         tools:layout="@layout/fragment_settings" />
