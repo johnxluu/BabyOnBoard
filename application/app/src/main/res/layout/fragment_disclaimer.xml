@@ -20,6 +20,7 @@
         android:src="@drawable/ic_bus_alert"
         android:contentDescription="@string/bus_alert_icon_description" />
 
+    <!--Disclaimer text body-->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
