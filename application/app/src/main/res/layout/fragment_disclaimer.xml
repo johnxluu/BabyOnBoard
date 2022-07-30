@@ -9,6 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
+        android:layout_margin="12dp"
         android:textColor="@color/black"
         android:textSize="20sp"
         android:text="@string/description_disclaimer" />
