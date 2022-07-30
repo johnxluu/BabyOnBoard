@@ -32,6 +32,7 @@
         android:textColor="@color/dark_gray"
         android:text="@string/ask_if_baby_on_board"/>
 
+    <!--Yes button-->
     <Button
         android:id="@+id/yesBtn"
         android:minWidth="200dp"
@@ -40,6 +41,7 @@
         android:text="@string/btn_yes"
         style="@style/Base.Widget.AppCompat.Button.Colored"/>
 
+    <!--No button-->
     <Button
         android:id="@+id/noBtn"
         android:minWidth="200dp"
