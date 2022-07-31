@@ -6,6 +6,12 @@
     app:startDestination="@+id/navigation_home_screen">
 
     <fragment
+        android:id="@+id/navigation_method_selection"
+        android:name="com.zybooks.babyonboard.MethodSelectionFragment"
+        android:label="@string/btn_yes"
+        tools:layout="@layout/fragment_method_selection" />
+
+    <fragment
         android:id="@+id/navigation_home_screen"
         android:name="com.zybooks.babyonboard.HomeScreenFragment"
         android:label="@string/title_home_screen"

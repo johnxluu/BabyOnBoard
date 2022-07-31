@@ -11,4 +11,8 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="bus_alert_icon_description">Bus alert icon.</string>
+    <string name="ask_connection_selection">How would you like to connect?</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="location">Location</string>
+    <string name="x">X</string>
 </resources>

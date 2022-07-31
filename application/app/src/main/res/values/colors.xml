@@ -9,4 +9,6 @@
     <color name="dark_gray">#FF444444</color>
     <color name="white">#FFFFFFFF</color>
     <color name="baby_blue">#FF89CFF0</color>
+    <color name="light_green">#FFA4DE02</color>
+    <color name="pink_red">#FFa61022</color>
 </resources>
